@@ -1,0 +1,29 @@
+h1 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color: #1b594d;
+    font-family: cursive;
+}
+button {
+    margin: 20px;
+    border-color: #2ae8c2 !important;
+    color: #888888 !important;
+    margin-bottom: 25px;
+}
+button:hover {
+    background-color: #fec8d8;
+}
+#textarea1 {
+    padding: 3%;
+    border-color: #1425a6;
+    border-width: thick;
+}
+section {
+    padding: 5%;
+    padding-top: 0;
+    height: 100vh;
+}
+.button{
+    margin:10px
+}
